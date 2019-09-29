@@ -21,7 +21,7 @@ Making a platform help people lost their pets to find them with the help of peop
 # User Journeys:
 
 1. **User who want find his own pet**
-The user will can sign up and log in the platform, and add post for missing his pet with offer reward for who find it, with enough information about his pet *like* (photo, color, type, place missing ...etc) and personal contact *like* (phone, social media links ...etc).
+The user will sign up and log in the platform, and add a post for missing his pet with offer reward for who find it, with enough information about his pet *like* (photo, color, type, place missing ...etc) and personal contact *like* (phone, social media links ...etc).
 
 2. **Users who found a missing pet**
 Any user can see all posts about missing pet and see the rewards, to help and collect the rewards must signing-up and logging-in, can post 'pet found' messages (with mandatory photo proof) and collect rewards on confirmation from pet owners, and user can comment on pet missing entries, offering data points (sighted, area checked with no results, etc).
