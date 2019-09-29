@@ -28,11 +28,11 @@ Any user can see all posts about missing pet and see the rewards, to help and co
 
 
 # User stories
-1. **All Geust and User**
+1. **All Guest and User**
 
-- As a user/geust I want to be able to see all posts about missing pet.
-- As a user/geust I want to be able to sign-up in the platform.
-- As a user/geust I want to be able to log-in to the platform.
+- As a user/guest I want to be able to see all posts about missing pet.
+- As a user/guest I want to be able to sign-up in the platform.
+- As a user/guest I want to be able to log-in to the platform.
 
 2. **User who want find his own pet**
 
