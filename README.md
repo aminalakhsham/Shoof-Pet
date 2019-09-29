@@ -1,17 +1,14 @@
 # Shoof-Pet
----
 
 # Problem Statement:
 
 There are people who need a platform to find help from people to search for their lost pet for a reward.
 
----
 
 # Solution:
 
 Making a platform help people lost their pets to find them with the help of people in exchange for a reward, pet rewards (brokered/managed by the service), and location data points (GPS) of pet sightings using augmented reality to overlay last-seen pet locations.
 
----
 
 # The Benefits of Solution :
 
@@ -20,7 +17,6 @@ Making a platform help people lost their pets to find them with the help of peop
 - Help people who like to help look for pets for reward.
 - mobile device accessibility.
 
----
 
 # User Journeys:
 
@@ -30,7 +26,6 @@ The user will can sign up and log in the platform, and add post for missing his 
 2. **Users who found a missing pet**
 Any user can see all posts about missing pet and see the rewards, to help and collect the rewards must signing-up and logging-in, can post 'pet found' messages (with mandatory photo proof) and collect rewards on confirmation from pet owners, and user can comment on pet missing entries, offering data points (sighted, area checked with no results, etc).
 
----
 
 # User stories
 1. **All Geust and User**
